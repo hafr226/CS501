@@ -1,0 +1,34 @@
+Name,Description,Role,Ranged_or_Melee,UsageDifficulty,Offense,Endurance,Mobility,Scoring,Support
+Duraludon,"Add a Ranged Attacker to your UNITE team with a powerhouse of a Pokémon that’s eager to shove out the opposition. Duraludon is ready to leverage light, efface earth, and wreak ruin in order to win.",Attacker,Ranged,Intermediate,3.5,3.5,2.5,2.5,0.5
+Mamoswine,Mamoswine charges in with versatile ice attacks that can freeze opponents and leave them unable to move.,Defender,Melee,Intermediate,2.5,4,2,1.5,2.5
+Gardevoir,"Gardevoir strikes its opponents from far away with its mysterious psychic power. It has a lot of moves with unique movements, but they are very powerful when used effectively.",Attacker,Ranged,Intermediate,4.5,1.5,1.5,3,1.5
+Snorlax,Snorlax can take a lot of hits. It’s a dependable Pokémon that can protect its allies from harm.,Defender,Melee,Novice,1.5,5,2,1.5,2.5
+Blissey,"Blissey is a Pokémon that excels at supporting its allies with moves that restore HP, cure status conditions, or empower allies!",Supporter,Melee,Novice,1,3.5,1.5,1.5,4.5
+Zeraora,"Zeraora can close the distance between itself and its opponents as fast as lightning, dealing massive amounts of damage all at once.",Speedster,Melee,Expert,3.5,1.5,4,3,0.5
+Sylveon,Sylveon attacks opponents from a distance while increasing its stats and restoring its HP.,Attacker,Ranged,Intermediate,3.5,1.5,1.5,3.5,3.5
+Pikachu,Pikachu is a Pokémon that excels at attacking opponents from far away with electricity. Sometimes the attacks even leave opposing Pokémon paralyzed!,Attacker,Ranged,Novice,4.5,1.5,2.5,2,1.5
+Charizard,"When it’s still a Charmander, it’s not the most reliable, but when it evolves into Charizard, it can use its powerful moves to attack and deal damage over a wide area.",All-Rounder,Melee,Novice,3.5,3,2.5,3,0.5
+Blastoise,Blastoise has a massive body to shield its allies with—and the power to blast away its opponents with water.,Defender,Ranged,Intermediate,2,3.5,2,2,3
+Greedent,Stash away or consume Berries strategically to overcome the opposition with this tricky Defender!,Defender,Melee,Expert,4,1.5,2,1,1
+Trevenant,"Add a Melee Defender to your UNITE team with a spectral Pokémon that’s ready to terrify the opposition. Trevenant is ready to unleash sinister fire, good old-fashioned slapping, and terrifying curses in order to win. ",Defender,Melee,Intermediate,2,4,2,2.5,2.5
+Decidueye,"Astonish your foes from the shadows with a storm of quills, and nock ’em out!",Attacker,Ranged,Intermediate,3.5,1.5,1.5,3.5,3.5
+Tsareena,"Tsareena is ready to glide, kick, and stomp its way to victory.",All-Rounder,Melee,Expert,3.5,3,3,1.5,0.5
+Dragonite,"Dragonite is ready to rampage through the competition in Pokémon UNITE as a Melee All-Rounder. Harnessing the power of fire, water, and electricity, Dragonite is a powerhouse that’s ready to stomp its way to victory.",All-Rounder,Melee,Novice,4,2.5,2.5,3,0.5
+Aegislash,Add a Melee All-Rounder to your team with a graceful Pokémon that effortlessly pivots between offense and defense. Aegislash is ready to help you battle like a chosen ruler with a regal moveset befitting the Royal Sword Pokémon.,All-Rounder,Melee,Expert,3.5,2,4,2.5,0.5
+Cinderace,Cinderace doesn’t just have high attack power—it’s also got the speed to drive opponents crazy.,Attacker,Ranged,Novice,4,1.5,3,2.5,0.5
+Gengar,"Gengar, a Pokémon that lurks in the shadows, is a master of surprise attacks.",Speedster,Melee,Expert,3.5,2,4,3,0.5
+Cramorant,"Cramorant is the Gulp Pokémon. Cramorant’s Ability, Gulp Missile, allows it to attack by spitting out prey it catches with Dive.",Attacker,Ranged,Expert,4,3,3,1.5,1
+Wigglytuff,"Wigglytuff learns lots of moves that can stop opponents in their tracks, making it well-suited to using teamwork tactics with its allies in battle.",Supporter,Ranged,Intermediate,1,2.5,2.5,2,4.5
+Slowbro,"No matter the situation, Slowbro goes about life at its own pace. With its characteristic high defense and blissful unawareness, Slowbro is unfazed by opponents’ attacks.",Defender,Ranged,Intermediate,1.5,4,1.5,1.5,4
+Alolan Ninetales,"Alolan Ninetales uses moves that freeze its opponents in ice, making them unable to move or attack.",Attacker,Ranged,Intermediate,4,1.5,1.5,2.5,3
+Machamp,"Machamp is a Pokémon that specializes in melee combat, powered by its strong fighting moves.",All-Rounder,Melee,Intermediate,4,2.5,2.5,2.5,1
+Absol,Absol is a Pokémon that can close the distance in an instant and deal massive amounts of damage.,Speedster,Melee,Expert,3.5,2,4,2.5,0.5
+Garchomp,"Garchomp’s Ability, Rough Skin, means it can sometimes cause damage to Pokémon that hit it, so opponents that attack Garchomp carelessly may just get struck back. What’s more, using Dig lets Garchomp sneak-attack its opponents from underground.",All-Rounder,Melee,Intermediate,3.5,3.5,2.5,2.5,0.5
+Lucario,Lucario is a well-balanced Pokémon that combines speed and attack power.,All-Rounder,Melee,Expert,3,2.5,3.5,3,0.5
+Mr. Mime,Mr. Mime specializes in hindering opposing Pokémon with its tricky moves.,Supporter,Melee,Intermediate,1.5,4,1,1.5,4
+Eldegoss,Eldegoss is a master supporter that can restore its allies’ HP and boost their movement speed.,Supporter,Ranged,Novice,1.5,2,2.5,2.5,4
+Talonflame,Talonflame toys with the opposing team by using its moves to quickly maneuver itself and fly over obstacles.,Speedster,Melee,Novice,2.5,1.5,5,3.5,0.5
+Venusaur,"If its moves land successfully, Venusaur can deal a huge amount of damage to its opponents, even from far away.",Attacker,Ranged,Intermediate,4.5,2,2,2.5,1
+Greninja,Greninja is a Pokémon that uses smokescreens and illusory copies of itself to hide.,Attacker,Ranged,Expert,4,2,3,3,0.5
+Crustle,Crustle hinders its opponents using many different moves. ,Defender,Melee,Novice,1.5,4,1.5,2,3
+Hoopa,"Astonish and confuse opponents in Pokémon UNITE with Hoopa, now available to join your team. This Pokémon is a strategically complex Ranged Supporter that, if played effectively, can help ally Pokémon heal and move efficiently around the battlefield—in addition to dealing damage with its delightfully ominous attacks.",Supporter,Ranged,Expert,3,2,3,2,3.5
